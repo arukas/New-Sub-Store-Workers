@@ -7,7 +7,7 @@ minify = true
 [[d1_databases]]
 binding = "DB"
 database_name = "sub-store"
-database_id = "66c6a0f4-b31a-41c5-9672-509bf75a2aa9"
+database_id = "5c3249b8-fb47-4588-bc28-1875142fef9e"
 
 
 [vars]
